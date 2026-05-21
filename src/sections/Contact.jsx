@@ -98,7 +98,7 @@ export default function Contact() {
               <div className="mt-4 grid gap-3">
                 <a
                   className="flex items-center justify-between rounded-xl border border-white/10 bg-white/[0.03] px-4 py-3 text-sm text-white/80 transition hover:bg-white/5 hover:text-white"
-                  href="https://github.com/"
+                  href="https://github.com/inthrajithvijayan"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -110,7 +110,7 @@ export default function Contact() {
                 </a>
                 <a
                   className="flex items-center justify-between rounded-xl border border-white/10 bg-white/[0.03] px-4 py-3 text-sm text-white/80 transition hover:bg-white/5 hover:text-white"
-                  href="https://www.linkedin.com/"
+                  href="https://www.linkedin.com/in/inthrajith-vijayan-533062132/"
                   target="_blank"
                   rel="noreferrer"
                 >
